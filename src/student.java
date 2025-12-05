@@ -16,7 +16,7 @@ public class student {
     }
 
     // yeni eklerken kullanacağım metot
-    public Student(String name, String department) {
+    public student(String name, String department) {
         this.name = name;
         this.department = department;
     }
